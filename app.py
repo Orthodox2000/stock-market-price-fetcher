@@ -6,7 +6,7 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from datetime import datetime
 
 # Set your Alpha Vantage API Key
-API_KEY = "API KEY"
+API_KEY = "API KEY FROM https://www.alphavantage.co/"
 
 # Toggle state for hourly/daily prices
 show_daily = True
